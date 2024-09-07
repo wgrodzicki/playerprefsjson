@@ -1,5 +1,8 @@
 # **PlayerPrefsJson**
 
+> [!NOTE]
+> This repo contains the source code of my free PlayerPrefsJson asset available in the Unity Asset Store.
+
 PlayerPrefsJson is a lightweight alternative for the Unity's built-in PlayerPrefs class. Instead of using system's registry, it allows to save data in the convenient JSON format, making it easier to read, write or share files, locally or in the cloud.
 
 The asset requires minimal setup and can be added on top of an already existing project. It can be used to easily substitute standard PlayerPrefs in a safe manner or it can work alongside them as well.
@@ -43,13 +46,13 @@ PlayerPrefsJson comes with default settings for the path where the JSON file wil
 
 ### **Editor tool**
 
-PlayerPrefsJson ships with a built-in editor tool which makes it easy to apply your own custom settings (or revert them). You will find it in Tools -> Rosynant -> PlayerPrefsJson -> PlayerPrefsJson Tool:
+PlayerPrefsJson ships with a built-in editor tool which makes it easy to apply your own custom settings (or revert them):
 
 ![](Documentation/playerprefsjson-tool.png)
 
 ## **Demo**
 
-In PlayerPrefsJson -> Demo you will find a simple demo scene and sample scripts that demonstrate the usage of the asset. When launching the scene for the first time, the player (capsule) will go to grab the loot (cube) and this fact will be saved to a JSON file. Upon a second (every other subsequent) launch of the scene, the content of the file will be read and the loot will not be present, since it has already been collected:
+PlayerPrefsJson contains a simple demo scene and sample scripts that demonstrate the usage of the asset. When launching the scene for the first time, the player (capsule) will go to grab the loot (cube) and this fact will be saved to a JSON file. Upon a second (every other subsequent) launch of the scene, the content of the file will be read and the loot will not be present, since it has already been collected:
 
 ![](Documentation/playerprefson-demo.gif)
 
