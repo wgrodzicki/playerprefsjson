@@ -9,6 +9,8 @@ The asset requires minimal setup and can be added on top of an already existing 
 
 PlayerPrefsJson uses the popular [Json.NET framework](https://www.newtonsoft.com/json) by Newtonsoft to ensure the industry's standard way of handling JSON files. It also includes an easy-to-use editor tool that helps to define custom settings for your specific project.
 
+![](Documentation/playerprefsjson-card.png)
+
 ## **Features**
 
 ### **Identical methods**
@@ -58,4 +60,6 @@ PlayerPrefsJson contains a simple demo scene and sample scripts that demonstrate
 
 ## **Credits**
 
-Newtonsoft for the [Json.NET framework](https://www.newtonsoft.com/json).
+Created by Wojciech Grodzicki.
+
+- Thanks to Newtonsoft for the [Json.NET framework](https://www.newtonsoft.com/json).
