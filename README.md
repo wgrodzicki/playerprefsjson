@@ -1,7 +1,7 @@
 # **PlayerPrefsJson**
 
 > [!NOTE]
-> This repo contains the source code of my free PlayerPrefsJson asset available in the Unity Asset Store.
+> This repo contains the source code of my free PlayerPrefsJson asset.
 
 PlayerPrefsJson is a lightweight alternative for the Unity's built-in PlayerPrefs class. Instead of using system's registry, it allows to save data in the convenient JSON format, making it easier to read, write or share files, locally or in the cloud.
 
